@@ -2,7 +2,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-// Main 으로 클래스명 변경필요.
+/*
+https://www.acmicpc.net/problem/1000
+ */
 public class p1000 {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
